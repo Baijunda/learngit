@@ -6,5 +6,4 @@ Git tracks changes
 
 
 
-haha
-hehe
+haha and hehe
