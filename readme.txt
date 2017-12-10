@@ -7,3 +7,4 @@ Git tracks changes
 
 
 haha
+add /usr/bin/env
